@@ -1,5 +1,4 @@
 <h2 align="left">Hi 👋, I'm Luis Braga</h2>
-<h3 align="left">Back-end Developer</h3>
 <br>
 
 <h3 align="center"> - 📝 I regularly write articles on</h3>
