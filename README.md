@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋, I'm Luis Braga</h2>
-<h3 align="center">Back-end Developer</h3>
+<h2 align="left">Hi 👋, I'm Luis Braga</h2>
+<h3 align="left">Back-end Developer</h3>
 <br>
 
 <h3 align="center"> - 📝 I regularly write articles on</h3>
@@ -23,4 +23,4 @@
 <br>
 <h3 align="left">helped?</h3>
 <p><a href="https://www.buymeacoffee.com/labr4"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="labr4" /></a></p><br><br>
-<h3 align="left">thank you.. 😀</h3>
+<h4 align="left">thank you.. 😀</h4>
